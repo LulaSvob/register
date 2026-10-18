@@ -5,7 +5,9 @@
   },
   "records": {
     "CNAME": "gamerxr-637.github.io",
-    "TXT": ["zoho-verification=zb76641191.zmverify.zoho.com"]
+    "TXT": [
+      "zoho-verification=zb76641191.zmverify.zoho.com"
+    ]
   },
   "proxied": true
 }
